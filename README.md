@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on a lot of things, both academically and personally.
 - 📫 How to reach me?
   - You can check contact information from my [portfolio website](https://parteek-portfolio.netlify.app/homepage)
+- 💬 Ask me about anything you would like to know.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new places and food.
 
@@ -14,6 +15,3 @@
 
 <!-- Top languages -->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=P4RT33K&layout=compact&theme=github_dark)
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
