@@ -10,5 +10,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new places and food.
 
+Current skills:\
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql,figma)](https://github.com/P4RT33K)
+
+Started learning:\
+[![My Skills](https://skills.thijs.gg/icons?i=angular,c,git,php,py,ts)](https://github.com/P4RT33K)
+
 <!-- Top languages -->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=P4RT33K&layout=compact&theme=github_dark)
