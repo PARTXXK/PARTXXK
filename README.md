@@ -8,13 +8,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new places and food.
 
-#### 📖 Current languages:
+#### 📖 Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,mysql,figma)](https://github.com/P4RT33K)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,md,jquery)](https://skillicons.dev/)
 
-#### 📖 Started learning:
+#### 📖 Learning:
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,git,nodejs,php,py,ts)](https://github.com/P4RT33K)
+[![Learning](https://skillicons.dev/icons?i=angular,cs,cpp,git,php,py,ts)](https://skillicons.dev/)
+
+#### 🤖 Technologies
+
+[![technologies](https://skillicons.dev/icons?i=vscode,stackoverflow,spring,ps,nodejs,netlify,ai,github,figma,eclipse,codepen,azure,atom)](https://skillicons.dev/)
 
 #### ⭐ Stats:
 
