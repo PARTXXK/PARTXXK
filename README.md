@@ -24,4 +24,8 @@
 
 ### 💬 Connect with me
 
-<a href='https://parteek-portfolio.netlify.app/homepage'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Portfolio.svg' alt='Portfolio' width='21px'/>portfolio Website</a>
+<a href='https://www.linkedin.com/in/parteek-/'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Linkedin.svg' alt='Linkedin' width='21px'/></a> |
+<a href='https://twitter.com/imparteek_786'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Twitter.svg' alt='Portfolio' width='21px'/></a> |
+<a href='https://www.facebook.com/parteek.gorkhey.786'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Facebook.svg' alt='Portfolio' width='21px'/></a> |
+<a href='https://instagram.com/imparteek.786?r=nametag'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Instagram.svg' alt='Portfolio' width='21px'/></a> |
+<a href='https://discordapp.com/users/806199023672360990'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Discord.svg' alt='Portfolio' width='21px'/></a>
