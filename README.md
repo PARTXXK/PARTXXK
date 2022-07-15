@@ -18,7 +18,7 @@
 
 #### 🤖 Technologies
 
-[![technologies](https://skillicons.dev/icons?i=vscode,stackoverflow,spring,ps,nodejs,netlify,ai,github,figma,eclipse,codepen,azure,atom)](https://skillicons.dev/)
+[![technologies](https://skillicons.dev/icons?i=vscode,stackoverflow,spring,ps,nodejs,netlify,ai,github,figma,eclipse,codepen,azure,atom&perline=7)](https://skillicons.dev/)
 
 #### ⭐ Stats:
 
