@@ -1,5 +1,7 @@
-<h1 align="center"> Hi there, I'm Parteek. 👋</h1>
-<h2 align="center">I' m an International student in Canada from India.</h2>
+![NOICE](https://capsule-render.vercel.app/api?type=waving&height=200&text=P4RT33K%20&fontAlignY=40&color=gradient)
+
+# Hi there, I'm Parteek. 👋
+## I'm an International student in Canada from India.
 
 - 👨‍💻 I’m currently pursuing a diploma in Computer Software Engineering, at Sheridan College.
 - 🥅 My goals: They change on a day-to-day basis. But, my main goal is always to have a fruitful life.
