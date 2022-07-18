@@ -22,12 +22,19 @@
 
 [![technologies](https://skillicons.dev/icons?i=vscode,stackoverflow,spring,ps,nodejs,netlify,ai,github,figma,eclipse,codepen,azure,atom&perline=7)](https://skillicons.dev/)
 
-#### ⭐ Stats:
+<details close="true">
+<summary><h4>⭐ Stats:</h4></summary>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=P4RT33K&layout=compact&theme=github_dark)
 
 ![Parteek's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4RT33K&count_private=true&theme=github_dark)\
 (Why this? idk, might be hoping for something?)
+
+</details>
+
+
+#### 🎵 Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upa3cod4nwkkpr2ufzja4rgoum&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31upa3cod4nwkkpr2ufzja4rgoum&redirect=true)
 
 ### 💬 Connect with me
 
