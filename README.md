@@ -10,17 +10,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new places and food.
 
-#### 📖 Skills:
+#### 📖 Skills & Technologies:
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,md,jquery)](https://skillicons.dev/)
-
-#### 📖 Learning:
-
-[![Learning](https://skillicons.dev/icons?i=angular,cs,cpp,git,php,py,ts)](https://skillicons.dev/)
-
-#### 🤖 Technologies
-
-[![technologies](https://skillicons.dev/icons?i=vscode,stackoverflow,spring,ps,nodejs,netlify,ai,github,figma,eclipse,codepen,azure,atom&perline=7)](https://skillicons.dev/)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,md,jquery,angular,cs,cpp,git,php,py,ts,vscode,stackoverflow,spring,ps,nodejs,netlify,ai,github,figma,eclipse,codepen,azure,atom&perline=9)](https://skillicons.dev/)
 
 <details close="true">
 <summary><h4>⭐ Stats:</h4></summary>
