@@ -24,10 +24,6 @@
 
 </details>
 
-
-#### 🎵 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31upa3cod4nwkkpr2ufzja4rgoum&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31upa3cod4nwkkpr2ufzja4rgoum&redirect=true)
-
 ### 💬 Connect with me
 
 <a href='https://www.linkedin.com/in/parteek-/'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Linkedin.svg' alt='Linkedin' width='21px'/></a>
