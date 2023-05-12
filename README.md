@@ -30,5 +30,5 @@
 <a href='https://discordapp.com/users/806199023672360990'><img align='left' src='https://raw.githubusercontent.com/P4RT33K/P4RT33k/main/icons/Discord.svg' alt='Portfolio' width='21px'/></a>
 \
 \
-[![forthebadge](https://forthebadge.com/generator/?plabel=Struggling&slabel=Surviving&sbg=%2356D538&pbg=%23F33131)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge]((https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
