@@ -1,4 +1,4 @@
-![NOICE](https://capsule-render.vercel.app/api?type=waving&height=200&text=P4RT33K%20&fontAlignY=40&color=gradient)
+![NOICE](https://capsule-render.vercel.app/api?type=waving&height=200&text=PARTXXK%20&fontAlignY=40&color=gradient)
 
 <h1 align="center">Hi there, I'm Parteek(he/him). 👋</h1>
 
